@@ -110,4 +110,4 @@ Contributions are what make the open source community such an amazing place to l
 
 ---
 
-<p align="center">Built with ❤️ for better careers</p>
+<p align="center">Built by Ananthapadmanabhan for better careers</p>
